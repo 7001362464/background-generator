@@ -1,4 +1,4 @@
-const fluttered=[[0,1],[2,3],[4,5]].reduce((accumulator,arr)=>
+const fluttered=[[2,3],[4,5]].reduce((accumulator,arr)=>
 {
 
     debugger;
